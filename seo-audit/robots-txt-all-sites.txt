@@ -1,0 +1,52 @@
+# ============================================================
+# robots.txt — ziridev-fr.vercel.app
+# Placer dans public/robots.txt
+# ============================================================
+User-agent: *
+Allow: /
+Sitemap: https://ziridev-fr.vercel.app/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+
+# ============================================================
+# robots.txt — novadev-fr-audit.vercel.app
+# ============================================================
+User-agent: *
+Allow: /
+Sitemap: https://novadev-fr-audit.vercel.app/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+
+# ============================================================
+# robots.txt — novadev-audit.vercel.app
+# ============================================================
+User-agent: *
+Allow: /
+Sitemap: https://novadev-audit.vercel.app/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+
+# ============================================================
+# robots.txt — ziridev.vercel.app
+# ============================================================
+User-agent: *
+Allow: /
+Sitemap: https://ziridev.vercel.app/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
